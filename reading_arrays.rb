@@ -8,8 +8,9 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
- student_names[0]
+ STUDENT_NAMES[0]
 end
+first_student_by_index
 
 def fourth_student_by_index
   student_names[3]
